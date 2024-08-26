@@ -1,1 +1,1 @@
-# Tathastu-Scholar-Program
+Basic programs for getting started with java.
